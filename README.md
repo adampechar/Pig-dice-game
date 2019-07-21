@@ -4,7 +4,7 @@ Vytvořil jsem hru podle předlohy [Pig (dice game)](<https://en.wikipedia.org/w
 
 ## Ukázka ze hry
 
-![Ukázka ze hry](Pig(dice-game)example.png)
+![Ukázka ze hry](https://github.com/adampechar/Pig-dice-game/blob/master/Pig-dice-game.png)
 
 ## Spuštění
 
